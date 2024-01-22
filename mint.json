@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "MDB Presentation",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "favicon.svg",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -15,77 +15,38 @@
       "to": "#07C983"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
-    }
-  ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
-  ],
+
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Introduction",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "fahim",
+        "grown",
+        "chosen",
+        "found"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Shark Tank",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "sharktank/background",
+        "sharktank/user_research",
+        "sharktank/problem_statement",
+        "sharktank/idea",
+        "sharktank/result"
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Hackathon",
       "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "hackathon/overview",
+        "hackathon/initiation",
+        "hackathon/planning",
+        "hackathon/execution",
+        "hackathon/monitoring",
+        "hackathon/closure",
+        "hackathon/result"
       ]
     }
-  ],
-  "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
-  }
+  ]
 }
