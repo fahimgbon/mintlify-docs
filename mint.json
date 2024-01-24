@@ -21,9 +21,7 @@
       "group": "Introduction",
       "pages": [
         "fahim",
-        "grown",
-        "chosen",
-        "found"
+        "community"
       ]
     },
     {
@@ -31,21 +29,16 @@
       "pages": [
         "sharktank/background",
         "sharktank/user_research",
-        "sharktank/problem_statement",
-        "sharktank/idea",
-        "sharktank/result"
+        "sharktank/pitch"
       ]
     },
     {
       "group": "Hackathon",
       "pages": [
-        "hackathon/overview",
         "hackathon/initiation",
         "hackathon/planning",
-        "hackathon/execution",
-        "hackathon/monitoring",
-        "hackathon/closure",
-        "hackathon/result"
+        "hackathon/execution_monitoring",
+        "hackathon/closure"
       ]
     }
   ]
